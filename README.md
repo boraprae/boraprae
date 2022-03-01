@@ -53,14 +53,6 @@ I'm undergraduate student major Computer Science and Innovation from MFU, Thaila
 <div width="100%" align="center">
   <a align="left" href="https://github.com/boraprae/Palette-Artz" title="Palette-Artz"><img align="left" height="110" src="https://github-readme-stats.vercel.app/api/pin/?username=boraprae&repo=Palette-Artz&theme=vision-friendly-dark"></a>
 </div>
-<div width="100%" align="center">
-  <a align="left" href="https://github.com/boraprae/ONEN-DICTIONARY" title="ONEN-DICTIONARY"><img align="left" height="110" src="https://github-readme-stats.vercel.app/api/pin/?username=boraprae&repo=ONEN-DICTIONARY&theme=vision-friendly-dark"></a>
-</div>
-<div width="100%" align="center">
-  <a align="left" href="https://github.com/boraprae/RJMN" title="RJMN"><img align="left" height="110" src="https://github-readme-stats.vercel.app/api/pin/?username=boraprae&repo=RJMN&theme=vision-friendly-dark"></a>
-</div></div>
-
-
 
 <!--
 **boraprae/boraprae** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
