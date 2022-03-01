@@ -40,10 +40,10 @@ I'm undergraduate student major Computer Science and Innovation from MFU, Thaila
 <h3 align='center'>💎💎 Github Stat 💎💎</h3><br>
 <div class='row' align='center'>
 <a href="https://github.com/boraprae/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=boraprae&show_icons=true&theme=vision-friendly-dark"/>
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=boraprae&show_icons=true&theme=vision-friendly-dark" width=50% height=50% />
 </a>
 <a href="https://github.com/boraprae/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=boraprae&theme=vision-friendly-dark&layout=compact" width=41% />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=boraprae&theme=vision-friendly-dark&layout=compact" width=40% height=50% />
 </a>
 </div>
 
