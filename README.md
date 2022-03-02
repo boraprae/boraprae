@@ -75,7 +75,6 @@ I'm undergraduate student major Computer Science and Innovation from MFU, Thaila
   <a align="left" href="https://github.com/boraprae/RJMN" title="RJMN"><img align="left" height="50%" src="https://github-readme-stats.vercel.app/api/pin/?username=boraprae&repo=RJMN&theme=vision-friendly-dark"></a>
 </div>
 <br/><br/><br/><br/><br/><br/>
- <br>
  
 <hr>
 <h3 align='center'>💎💎 My Design Project 💎💎</h3>
