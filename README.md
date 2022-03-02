@@ -38,7 +38,8 @@ I'm undergraduate student major Computer Science and Innovation from MFU, Thaila
 
 <hr>
 
-<h3 align='center'>💎💎 Github Stat 💎💎</h3><br>
+<h3 align='center'>💎💎 Github Stat 💎💎</h3>
+<p align='center'>Here is my current stac, I will improve my skill more!</p>
 <div class='row' align='center'>
 <a href="https://github.com/boraprae/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=boraprae&show_icons=true&theme=vision-friendly-dark" width=50% height=50% />
@@ -49,7 +50,8 @@ I'm undergraduate student major Computer Science and Innovation from MFU, Thaila
 </div>
 
 <hr>
-<h3 align='center'>💎💎 Repositories 💎💎</h3><br>
+<h3 align='center'>💎💎 Repositories 💎💎</h3>
+<p align='center'>Most of my project isn't here but I will update it later.</p>
 <div class="row">
 <div width="100%" align="center">
   <a align="left" href="https://github.com/boraprae/Palette-Artz" title="Palette-Artz"><img align="left" height="50%" src="https://github-readme-stats.vercel.app/api/pin/?username=boraprae&repo=Palette-Artz&theme=vision-friendly-dark"></a>
