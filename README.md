@@ -61,6 +61,12 @@ I'm undergraduate student major Computer Science and Innovation from MFU, Thaila
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=boraprae&theme=vision-friendly-dark&layout=compact" width=40% height=50% />
 </a>
 </div>
+<br>
+ <p align="center">
+  <a href="https://github.com/boraprae/github-readme-streak-stats">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=boraprae&theme=vision-friendly-dark"/>
+  </a>
+</p>
 
 <hr>
 <h3 align='center'>💎💎 Repositories 💎💎</h3>
@@ -77,8 +83,7 @@ I'm undergraduate student major Computer Science and Innovation from MFU, Thaila
 <br/><br/><br/><br/><br/><br/>
  
 <hr>
-<h3 align='center'>💎💎 My Design Project 💎💎</h3>
-<p align='center'>I will update later!</p>
+
 
 
 <!--
