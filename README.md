@@ -68,6 +68,9 @@ I'm undergraduate student major Computer Science and Innovation from MFU, Thaila
   </a>
 </p>
 
+<!-- https://github.com/ashutosh00710/github-readme-activity-graph -->
+<a href="https://github.com/ashutosh00710/github-readme-activity-graph"><img alt="boraprae's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=boraprae&bg_color=0a0c10&color=feaf00&line=775eef&point=FFFFFF&hide_border=true)" /></a>
+
 <hr>
 <h3 align='center'>💎💎 Repositories 💎💎</h3>
 <p align='center'>Most of my project isn't here but I will update it later.</p>
