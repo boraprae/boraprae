@@ -4,7 +4,7 @@ I'm undergraduate student major Computer Science and Innovation from MFU, Thaila
 
 <!-- Typing SVG by DenverCoder1 - https://github.com/DenverCoder1/readme-typing-svg -->
 <p>
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&color=%23FEAF00&size=24&lines=Full-stack+web+and+mobile+deverloper;UX%2FUI+designer+;Project+Manager;A+Com-Sci'+undergraduate+3rd-year+student"></a>
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&color=%23FEAF00&size=24&lines=Front-end+web+and+mobile+deverloper;UX%2FUI+designer+;Project+Manager;A+Com-Sci'+undergraduate+3rd-year+student"></a>
 </p>
 
 <h5>Languages & Moblie and Web Frameworks:  </h5>
