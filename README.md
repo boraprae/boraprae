@@ -1,10 +1,12 @@
+![Profile views](https://gpvc.arturio.dev/boraprae)
+
 <h1> Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="32"> </h1>
 <p>"I'm boraprae or you can called me Thanchanok T. 😊<br>
 I'm undergraduate student major Computer Science and Innovation from MFU, Thailand!🎓"</p><br>
 
 <!-- Typing SVG by DenverCoder1 - https://github.com/DenverCoder1/readme-typing-svg -->
 <p>
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&color=%23FEAF00&size=24&lines=Front-end+web+and+mobile+deverloper;UX%2FUI+designer+;Project+Manager;A+Com-Sci'+undergraduate+3rd-year+student"></a>
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&color=%23FEAF00&size=24&lines=Front-end+web+and+mobile+deverloper;UX%2FUI+designer+;A+Com-Sci'+undergraduate+3rd-year+student"></a>
 </p>
 
 <h5>Languages & Moblie and Web Frameworks:  </h5>
@@ -81,6 +83,7 @@ I'm undergraduate student major Computer Science and Innovation from MFU, Thaila
 <br/><br/><br/><br/><br/><br/>
 <div width="100%" align="center">
   <a align="left" href="https://github.com/boraprae/RJMN" title="RJMN"><img align="left" height="50%" src="https://github-readme-stats.vercel.app/api/pin/?username=boraprae&repo=RJMN&theme=vision-friendly-dark"></a>
+    <a align="right" href="https://github.com/boraprae/it_school_asset_app" title="it_school_asset_app"><img align="right" height="50%" src="https://github-readme-stats.vercel.app/api/pin/?username=boraprae&repo=it_school_asset_app&theme=vision-friendly-dark"></a>
 </div>
 <br/><br/><br/><br/><br/><br/>
  
