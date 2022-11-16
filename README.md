@@ -88,7 +88,7 @@ I'm undergraduate student major Computer Science and Innovation from MFU, Thaila
 <br/><br/><br/><br/><br/><br/>
 <div width="100%" align="center">
   <a align="left" href="https://github.com/boraprae/RJMN" title="RJMN"><img align="left" height="50%" src="https://github-readme-stats.vercel.app/api/pin/?username=boraprae&repo=RJMN&theme=vision-friendly-dark"></a>
-    <a align="right" href="https://github.com/boraprae/it_school_asset_app" title="it_school_asset_app"><img align="right" height="50%" src="https://github-readme-stats.vercel.app/api/pin/?username=boraprae&repo=it_school_asset_app&theme=vision-friendly-dark"></a>
+    <a align="right" href="https://github.com/boraprae/watfun_application" title="watfun_application"><img align="right" height="50%" src="https://github-readme-stats.vercel.app/api/pin/?username=boraprae&repo=watfun_application&theme=vision-friendly-dark"></a>
 </div>
 <br/><br/><br/><br/><br/><br/>
  
