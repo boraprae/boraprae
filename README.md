@@ -3,8 +3,8 @@
 <h1 align="center"> Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="32"> </h1>
 <div align="center">
 <img src='https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif' width='200"'>
-<p >"I'm boraprae or you can called me Thanchanok T. 😊<br>
-I'm undergraduate student major Computer Science and Innovation from MFU, Thailand!🎓"</p><br>
+<!-- <p >"I'm boraprae or you can called me Thanchanok T. 😊<br> -->
+<!-- I'm undergraduate student major Computer Science and Innovation from MFU, Thailand!🎓"</p><br> -->
 </div>
 
 <!-- Typing SVG by DenverCoder1 - https://github.com/DenverCoder1/readme-typing-svg -->
