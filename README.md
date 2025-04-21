@@ -1,15 +1,8 @@
 <h1 align="center"> Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="32"> </h1>
 <div align="center">
 <img src='https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif' width='200"'>
-<!-- <p >"I'm boraprae or you can be called me Thanchanok T. 😊<br> -->
+<!-- <p >"I'm boraprae or you can call me Thanchanok T. 😊<br> -->
 </div>
-
-<!-- Typing SVG by DenverCoder1 - https://github.com/DenverCoder1/readme-typing-svg -->
-<p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&color=%23FEAF00&size=24&lines=Front-end+web+and+mobile+deverloper;UX%2FUI+designer+;A+Com-Sci'+undergraduate+3rd-year+student"></a>
-</p>
-
-<hr>
 
 <h5>Languages:</h5>
 <div class='row'>
