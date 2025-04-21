@@ -79,23 +79,6 @@
 <!-- https://github.com/ashutosh00710/github-readme-activity-graph -->
 <a href="https://github-readme-activity-graph.vercel.app"><img alt="boraprae's Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph?username=boraprae&theme=react" /></a>
 
-<hr>
-<h3 align='center'>💎💎 Repositories 💎💎</h3>
-<p align='center'>Most of my project isn't here but I will update it later.</p>
-
-<div width="100%" align="center">
-  <a align="left" href="https://github.com/boraprae/Palette-Artz" title="Palette-Artz"><img align="left" height="50%" src="https://github-readme-stats.vercel.app/api/pin/?username=boraprae&repo=Palette-Artz&theme=vision-friendly-dark"></a>
-   <a align="right" href="https://github.com/boraprae/ONEN-DICTIONARY" title="ONEN-DICTIONARY"><img align="right" height="50%" src="https://github-readme-stats.vercel.app/api/pin/?username=boraprae&repo=ONEN-DICTIONARY&theme=vision-friendly-dark"></a>
-</div>
-<br/><br/><br/><br/><br/><br/>
-<div width="100%" align="center">
-  <a align="left" href="https://github.com/boraprae/RJMN" title="RJMN"><img align="left" height="50%" src="https://github-readme-stats.vercel.app/api/pin/?username=boraprae&repo=RJMN&theme=vision-friendly-dark"></a>
-    <a align="right" href="https://github.com/boraprae/watfun_application" title="watfun_application"><img align="right" height="50%" src="https://github-readme-stats.vercel.app/api/pin/?username=boraprae&repo=watfun_application&theme=vision-friendly-dark"></a>
-</div>
-<br/><br/><br/><br/><br/><br/>
- 
-<hr>
-
 
 
 <!--
